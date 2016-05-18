@@ -20,11 +20,11 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jaineshdoshi.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/J-icon.png"
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 4
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai_sublime"
