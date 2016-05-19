@@ -22,6 +22,7 @@ Next up is the first checkpoint.
 Since I am from IIT Bombay, my summer break starts earlier than other schools from around the world. Hence I decided to move my timeline for GSoC up as I could utilize my time more optimally. I also have started working on my Masters thesis in a similar area so I do occasionally jump from one project to another at times when I get saturated with the one that I am working on. I am interested in the field of High Preformane Computing and have also explored Neuromorphic Engineering to cater to my curiousity. To begin with I already had installed and fiddled around with the ArchC simulator and [MPSoC][mpsoc] on my laptop earlier though. 
 I had divided the whole projet into subtasks inorder to be well organized and be more modular. 
 The first checkpoint consisted of the following subtasks:
+
 1. Get acquainted on a higher level with the functioning of the simulator
 2. Identification of the virtual environment and its requirements
 3. Choose and configure HAL for the board, architecture that will support the OS on the simulator
