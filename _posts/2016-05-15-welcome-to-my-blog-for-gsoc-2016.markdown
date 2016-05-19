@@ -27,7 +27,6 @@ The first checkpoint consisted of the following subtasks:
 * Choose and configure HAL for the board, architecture that will support the OS on the simulator
 
 
-
 [archc]:			http://www.archc.org/
 [ecos]:				http://ecos.sourceware.org/
 [gem5]:				www.gem5.org/

@@ -13,7 +13,7 @@ subtitle: "Your future is created by what you do today, not tomorrow."
 email: jaineshpdoshi@gmail.com
 name: Jainesh Doshi
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+Lets make the world a better place.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -71,15 +71,15 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: jaineshdoshi
+    url: 
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: jainesh.doshi.3
+    url: https://www.facebook.com/jainesh.doshi.3
     desc: Friend me on Facebook
     share: true
 
@@ -99,7 +99,7 @@ social:
 
   - name: Google+
     icon: google-plus
-    username:
+    username: Jainesh Doshi
     url:
     desc: Add me to your Circles
     share: true
@@ -123,7 +123,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
