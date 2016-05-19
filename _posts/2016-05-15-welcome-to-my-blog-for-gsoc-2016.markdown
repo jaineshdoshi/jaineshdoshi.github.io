@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my Blog for GSoC 2016!"
 date:   2016-05-15 13:07:23
 author: Jainesh Doshi
-categories: GSoC 2016
+categories: GSoC-2016
 tags:	GSoC ArchC
 cover:  "/assets/archc.png"
 ---
