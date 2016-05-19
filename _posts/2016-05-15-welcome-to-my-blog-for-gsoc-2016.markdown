@@ -8,7 +8,6 @@ tags:	GSoC ArchC
 cover:  "/assets/archc.png"
 ---
 
-## Overview
 
 I am working with the organization [ArchC][archc], [Computer Systems laboratory][csl], [University of Campinas][unicamp], Brazil for Google Summer of Code 2016. My project is aimed at booting an operating system on the Functional Simulator ArchC developed by the group. I would be mentored by [Prof. Rodolfo][rodolfo] and his student Maxiwell from his research group. Upon further researching about the architecture and OS that should be used for this project I concluded that the open source [eCos][ecos] Operating system upon the MIPS architecture in the simulator would be an optimal choice.
 
