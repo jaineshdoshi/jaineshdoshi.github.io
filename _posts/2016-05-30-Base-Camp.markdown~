@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Base Camp"
+date:   2016-05-30 22:15:54
+author: Jainesh Doshi
+categories: GSoC-2016
+tags:	GSoC ArchC
+cover:  "/assets/archc.png"
+---
+
+And the days passed by sooner than they even came during the summers here in Mumbai. This period was challenging for me as I was exploring uncharted territory and I fell ill (thrombocytopenia, spemding days in bed doing nothing is not easy as it seems) during the same time. Trying to keep up with the revised objectives was a little hard for me, though I managed to accomplish most of them. I had an intersting talk with my mentors once at the start of the period in which we outlined the objectives. From the analysis done in the previous period I had already identified to use the MIPS arrchitecture based MIPS Atlas 4kc board. 
+
+### Base platform
+
+The plan was to start on a basic model that had the minimal essential features required to mimick the functionality of the hardware system. The [base platform][base-platform] thus used the minimal components like memory, a single microprocessor and a bus connecting the former stated objects. ArchC generates the appropriate MIPS simulator based upon the given MIPS model and thus an executable can then easily be called upon to be run on the environment created. I used the famaliar hello-world.c program's cross compiled to MIPS (using the available ecos gnu toolchain mipsisa32-elf-) to verify that the generated environment was appropriate enough to run a program. One problem that I faced during this part was the incompatibility of ArchC versions with the base-platfrom paths as base-platform was inspired from the similar deprecated project [arp-leon][arp-leon] that used ArchC 2.2 (presently I am using the latest version 2.4.1 for this project), so I had to get some paths sorted out here in order to setup the MIPS environment by ArchC. 
+
+
+
+
+[archc]:			http://www.archc.org/
+[ecos]:				http://ecos.sourceware.org/
+[gem5]:				www.gem5.org/
+[gem5-linux-image]:	http://www.m5sim.org/Download
+[mpsoc]:			http://www.archc.org/benchs/mpsocbench/index.html
+[rodolfo]:			http://www.ic.unicamp.br/~rodolfo/
+[csl]:				https://lsc.ic.unicamp.br/
+[unicamp]:			https://www.unicamp.br/unicamp/en
+[mips-isa]:			https://ti.tuwien.ac.at/cps/teaching/courses/cavo/files/MIPS32-IS.pdf
+[base-platfrom]:	https://github.com/jaineshdoshi/base_platform
+[arp-leon]:			https://github.com/ArchC/arp-leon
