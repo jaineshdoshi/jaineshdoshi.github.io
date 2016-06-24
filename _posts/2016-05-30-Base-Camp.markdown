@@ -5,7 +5,7 @@ date:   2016-05-30 22:15:54
 author: Jainesh Doshi
 categories: GSoC-2016
 tags:	GSoC ArchC
-cover:  "/assets/archc.png"
+cover:  "/assets/base-camp.jpg"
 ---
 
 And the days passed by sooner than they even came during the summers here in Mumbai. This period was challenging for me as I was exploring uncharted territory and I fell ill (thrombocytopenia, spemding days in bed doing nothing is not easy as it seems) during the same time. Trying to keep up with the revised objectives was a little hard for me, though I managed to accomplish most of them. I had an intersting talk with my mentors once at the start of the period in which we outlined the objectives. From the analysis done in the previous period we had already zeroed in on the MIPS arrchitecture based MIPS Atlas 4kc board to be mimicked on the simulator. 
