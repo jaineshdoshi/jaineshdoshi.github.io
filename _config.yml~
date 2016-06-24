@@ -8,7 +8,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Jainesh Doshi's Blog
+title: Jainesh Doshi
 subtitle: "Your future is created by what you do today, not tomorrow."
 email: jaineshpdoshi@gmail.com
 name: Jainesh Doshi
