@@ -24,5 +24,5 @@ The plan was to start on a basic model that had the minimal essential features r
 [csl]:				https://lsc.ic.unicamp.br/
 [unicamp]:			https://www.unicamp.br/unicamp/en
 [mips-isa]:			https://ti.tuwien.ac.at/cps/teaching/courses/cavo/files/MIPS32-IS.pdf
-[base-platfrom]:	https://github.com/jaineshdoshi/base_platform
+[base-platform]:	https://github.com/jaineshdoshi/base_platform
 [arp-leon]:			https://github.com/ArchC/arp-leon
