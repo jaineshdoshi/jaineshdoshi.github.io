@@ -13,7 +13,7 @@ I am working with the organization [ArchC][archc], [Computer Systems laboratory]
 
 ### The Zeroth Checkpoint
 
-The timeline and various checkpoints were predecided in the proposal itself. To be well prepared and start comfortably on ArchC, I had a Zeroth Checkpoint that included studying the already available implementation of the bootable [linux image][gem5-inux-image] for the full system mode of another simulator [gem5][gem5] and get a better picture of the essentials needed and modify the tasks writtne in my proposal as per needed. I will summarize and put up my findings from the above here soon!
+The timeline and various checkpoints were predecided in the proposal itself. To be well prepared and start comfortably on ArchC, I had a Zeroth Checkpoint that included studying the already available implementation of the bootable [linux image][gem5-linux-image] for the full system mode of another simulator [gem5][gem5] and get a better picture of the essentials needed and modify the tasks writtne in my proposal as per needed. I will summarize and put up my findings from the above here soon!
 Next up is the first checkpoint.
 
 ### The First Checkpoint
